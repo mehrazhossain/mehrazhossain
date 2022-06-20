@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Mehraz Hossain, a **Full-stack Web Developer** (specializing in **MERN Stack**) and a **Top Rated** [**Freelancer**](https://www.upwork.com/freelancers/~01c12e516ee1d35044).
+🎓 I am Mehraz Hossain, a **Full-stack Web Developer** (specializing in **MERN Stack**).
 
 👨‍💻 I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble, and continuously making strides to learn all that I can about development.
 
