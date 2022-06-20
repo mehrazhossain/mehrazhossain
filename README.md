@@ -10,7 +10,7 @@
 <!-- Social Connectivity -->
 <p align="left"> <a href="https://twitter.com/mehraz_h_" target="_blank"><img src="https://img.shields.io/twitter/follow/officialfhb_tw?logo=twitter&style=for-the-badge" alt="official twitter" /></a> </p>
 
-- 🔭 He is currently working on [FHB Official Website](https://mehrazhossain.netlify.app/)
+- 🔭 He is currently working on [Portfolio](https://mehrazhossain.netlify.app/)
 
 - 🌱 Currently he is learning **NEXT.JS - GRAPHQL - RUST - DEVOPS**
 
@@ -30,7 +30,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mehraz_h_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehraz hossain's twitter profile" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mehraz-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehraz hossain's linkedin profile" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mehraz-hossain" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehraz hossain's linkedin profile" height="30" width="40" /></a>
 <a href="https://fb.com/mehraz.h.apu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehraz hossain's facebook profile" height="30" width="40" /></a>
 <a href="https://instagram.com/mehraz_h_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehraz hossain's instagram profile.ig" height="30" width="40" /></a>
 </p>
