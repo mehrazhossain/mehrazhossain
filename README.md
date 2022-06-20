@@ -1,36 +1,11 @@
-<!-- Heading Section -->
-<h1 align="center">Hello 😃 , IT'S Mehraz Hossain</h1>
-<h3 align="center">I am a MERN stack developer with a vast array of knowledge in front-end and backend technologies like ReactJS, NodeJS, ExpressJS.</h3>
+<!-- About -->
 
-<!-- Trophy -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=forhadhossenbabu&label=Profile%20views&color=0e75b6&style=flat" alt="forhadhossenbabu" /> </p>
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=forhadhossenbabu" alt="" /></a> </p>
+## 🚀 About Me
 
-<!-- Social Connectivity -->
-<p align="left"> <a href="https://twitter.com/mehraz_h_" target="_blank"><img src="https://img.shields.io/twitter/follow/officialfhb_tw?logo=twitter&style=for-the-badge" alt="official twitter" /></a> </p>
+🎓 I am Mehraz Hossain, a **Full-stack Web Developer** (specializing in **MERN Stack**) and a **Top Rated** [**Freelancer**](https://www.upwork.com/freelancers/~01c12e516ee1d35044).
 
-- 🔭 He is currently working on [Portfolio](https://mehrazhossain.netlify.app/)
+👨‍💻 I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble, and continuously making strides to learn all that I can about development.
 
-- 🌱 Currently he is learning **NEXT.JS - GRAPHQL - RUST - DEVOPS**
-
-- 👊🏻 Connect with him professionally [Let's Connect](https://mehrazhossain.netlify.app/contact)
-
-- 👨‍💻 All of his works are available at [https://forhadhossenbabu.com/accomplishments](https://mehrazhossain.netlify.app/projects)
-
-- 📝 He often write articles on [https://mehrazhossain.netlify.app](https://mehrazhossain.netlify.app/blog)
-
-- 💬 Ask him about **TECHNOLOGY STACKS**
-
-- 📫 Reach him now **mehrazhossain54@gmail.com**
-
-- 📄 Know about his experiences [https://github.com/mehrazhossain](https://github.com/mehrazhossain)
-
-<!-- connect with me -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mehraz_h_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehraz hossain's twitter profile" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mehraz-hossain" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehraz hossain's linkedin profile" height="30" width="40" /></a>
-<a href="https://fb.com/mehraz.h.apu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehraz hossain's facebook profile" height="30" width="40" /></a>
-<a href="https://instagram.com/mehraz_h_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehraz hossain's instagram profile.ig" height="30" width="40" /></a>
-</p>
+📚 Outside the world of tech too, I love teaching, writing & reading books on **personal development** & **financial literacy**. My favorite ones are **The Compound Effect** by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.
