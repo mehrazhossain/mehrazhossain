@@ -59,3 +59,13 @@
 ### Testing
 
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+## 📈 Stats
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=mehrazhossain&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api?username=mehrazhossain&show_icons=true&hide_border=true" alt="Mehraz Hossain's GitHub Stats">
+    <br />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=mehrazhossain.mehrazhossain" alt="visitors">
+</div>
