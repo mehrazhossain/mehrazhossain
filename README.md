@@ -8,7 +8,7 @@
 
 👨‍💻 I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble, and continuously making strides to learn all that I can about development.
 
-📚 Outside the world of tech too, I love teaching, writing & reading books on **personal development** & **financial literacy**. My favorite ones are **The Compound Effect** by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.
+📚 Programming isn't the only thing that I love, I love teaching, writing & reading books on **self-development** & **financial literacy**.
 
 <!-- Skills -->
 
