@@ -55,14 +55,14 @@
  </br>
  <p align="center">
   <a href="https://github.com/mehrazhossain">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=mehrazhossain&show_icons=true&theme=radical&count_private=true">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=mehrazhossain&show_icons=true&theme=dark&count_private=true">
   </a>
   <a href="https://github.com/mehrazhossain/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mehrazhossain&layout=compact&theme=radical&langs_count=6" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mehrazhossain&layout=compact&theme=dark&langs_count=6" />
   </a>
  </p>
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehrazhossain&theme=radical&hide_border=true"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehrazhossain&theme=dark&hide_border=true"/>
 </p>
 
 <a href="http://www.github.com/mehrazhossain"><img src="https://activity-graph.herokuapp.com/graph?username=UbuntuEvangelist&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
