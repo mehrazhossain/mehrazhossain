@@ -34,18 +34,18 @@
 ### Languages and Tools:
 
 <p align="left">
- <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/JavaScript.svg" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/React-Dark.svg" alt="react icon" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/Redux.svg" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/NodeJS-Dark.svg" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/ExpressJS-Dark.svg" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/MongoDB.svg" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/TypeScript.svg" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/NextJS-Dark.svg" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/TailwindCSS-Dark.svg" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/Bootstrap.svg" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/CSS.svg" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/HTML.svg" alt="" height="40" width="40"  style='margin-top:15px; margin-left:15px '/>
+ <img title="JavaScript" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/JavaScript.svg" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img title="React" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/React-Dark.svg" alt="react icon" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img title="Redux" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/Redux.svg" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img title="NodeJS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/NodeJS-Dark.svg" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img title="ExpressJS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/ExpressJS-Dark.svg" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img title="MongoDB" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/MongoDB.svg" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img title="TypeScript" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/TypeScript.svg" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img title="NextJS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/NextJS-Dark.svg" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img title="TailwindCSS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/TailwindCSS-Dark.svg" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img title="Bootstrap" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/Bootstrap.svg" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img title="CSS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/CSS.svg" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img title="HTML" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/HTML.svg" alt="" height="40" width="40"  style='margin-top:15px; margin-left:15px '/>
 </p>
 <br />
 <br />
