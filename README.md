@@ -1,14 +1,37 @@
-<!-- About -->
+<img align="right" alt="coding" width="350" src="https://i.ibb.co/Mkjg2y8/122.gif">
 
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+### HI THERE !
 
-## 🚀 About Me
+<h1>I'm Mehraz Hossain</h1>
 
-🎓 I am Mehraz Hossain, a **Full-stack Web Developer** (specializing in **MERN Stack**).
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1A1A1A&lines=MERN+Stack+Developer;Frontend+Developer;Backend+Developer;React+Developer;Software+Developer;JavaScript+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)
 
-👨‍💻 I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble, and continuously making strides to learn all that I can about development.
 
-📚 Programming isn't the only thing that I love, I love teaching, writing & reading books on **self-development** & **financial literacy**.
+<!-- - 💬 Ask me about **React, Node and JavaScript.** -->
+
+- 📧 E-mail : **mehrazhossain54@gmail.com**
+- 📝 Portfolio : [mehrazhossain.com](https://mehrazhossain.netlify.app/)
+- 📄 Resume : [View & Download Resume](https://drive.google.com/file/d/14ESrW0RZRaO3gjE0sSGYufNBUdBkRmIz/view?usp=sharing)
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+
+- I'm passionate 🔭️ Web Developer currently learning 🌱 **Advanced NodeJS & GraphQL**.
+- I believe in activity with insight that helps me dive deeper into anything.
+- I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
+
+</br>
+
+### Connect with me:
+
+<p align="left">
+<a href="https://www.linkedin.com/in/mehraz-hossain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="" height="40" width="40" /></a>
+<a href="https://www.facebook.com/mehraz.h.apu" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Facebook.svg" alt="" height="40" width="40" /></a>
+<a href="https://mehrazhossain.netlify.com/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" alt="" height="40" width="40" /></a>
+
+</p>
+
+</br>
+
 
 <!-- Skills -->
 
