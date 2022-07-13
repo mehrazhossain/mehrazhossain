@@ -10,7 +10,7 @@
 <!-- - 💬 Ask me about **React, Node and JavaScript.** -->
 
 - 📧 E-mail : **mehrazhossain54@gmail.com**
-- 📝 Portfolio : [website](https://mehraz.web.app/)
+- 📝 Portfolio : [Website](https://mehraz.web.app/)
 - 📄 Resume : [View & Download Resume](https://drive.google.com/file/d/14ESrW0RZRaO3gjE0sSGYufNBUdBkRmIz/view?usp=sharing)
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mehraz-hossain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="" height="40" width="40" /></a>
 <a href="https://www.facebook.com/mehraz.h.apu" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Facebook.svg" alt="" height="40" width="40" /></a>
-<a href="https://mehrazhossain.netlify.com/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" alt="" height="40" width="40" /></a>
+<a href="https://mehraz.web.app/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" alt="" height="40" width="40" /></a>
 
 </p>
 
