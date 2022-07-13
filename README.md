@@ -10,7 +10,7 @@
 <!-- - 💬 Ask me about **React, Node and JavaScript.** -->
 
 - 📧 E-mail : **mehrazhossain54@gmail.com**
-- 📝 Portfolio : [mehrazhossain.com](https://mehrazhossain.netlify.app/)
+- 📝 Portfolio : [website](https://mehraz.web.app/)
 - 📄 Resume : [View & Download Resume](https://drive.google.com/file/d/14ESrW0RZRaO3gjE0sSGYufNBUdBkRmIz/view?usp=sharing)
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
